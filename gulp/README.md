@@ -1,3 +1,5 @@
+## read about .gitignore
+
 ## Структура файлов и папок:  
 >./src  
 >>	/css  

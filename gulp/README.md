@@ -25,11 +25,11 @@
 * __Репозиторий GitHub:__ https://github.com/morphIsmail/gulp_settings
 
 ## npm setup:
-npm install del
-npm install browser-sync gulp --save-dev
-npm install gulp-cli -g
-npm install gulp -D
-npm install --save-dev gulp-autoprefixer
-npm install gulp-clean-css --save-dev
-npm install --save-dev gulp-concat
-npm install --save-dev gulp-uglify
+* npm install del
+* npm install browser-sync gulp --save-dev
+* npm install gulp-cli -g
+* npm install gulp -D
+* npm install --save-dev gulp-autoprefixer
+* npm install gulp-clean-css --save-dev
+* npm install --save-dev gulp-concat
+* npm install --save-dev gulp-uglify

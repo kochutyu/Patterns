@@ -22,9 +22,14 @@
 4. Писать свой код и наслаждаться автоматической сборкой проекта. 
 
 ## Ссылки:
-* __YouTube канал ITDoctor:__ https://www.youtube.com/c/ITDoctor
 * __Репозиторий GitHub:__ https://github.com/morphIsmail/gulp_settings
-* __Группа в ВК:__ https://vk.com/itdoctorstudio
-* __Instagram:__ https://instagram.com/ismail_asanovich/
-* __Telegram:__ https://t.me/itdoctorr
-* __Мой Twitter:__ https://twitter.com/ITDoctor_morph
+
+## npm setup:
+npm install del
+npm install browser-sync gulp --save-dev
+npm install gulp-cli -g
+npm install gulp -D
+npm install --save-dev gulp-autoprefixer
+npm install gulp-clean-css --save-dev
+npm install --save-dev gulp-concat
+npm install --save-dev gulp-uglify
